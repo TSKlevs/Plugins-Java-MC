@@ -1,0 +1,5 @@
+var myScript = function () {
+  echo("¡Hola, mundo!");
+  var player = self;
+  player.sendMessage("¡Bienvenido al servidor!");
+};
